@@ -1,0 +1,56 @@
+h1{
+    font-size: 80px;
+    font-family: "Sevillana", cursive;
+    font-weight: 500;
+    text-align: center; 
+    background-color: rgb(73, 124, 139);
+    color: rgb(208, 255, 0);
+      
+}
+
+p{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.ti{
+    font-size: 50px;
+    text-align: center;
+    color:brown
+}
+
+#op{
+    font-size: 25px;
+    font-family: arial;
+     
+}
+
+#op::first-letter{
+    font-size: 50px;
+}
+#po{
+    font-size: 25px;
+    font-family: arial; 
+}
+#lo{
+    font-size: 25px;
+    font-family: arial;  
+}
+
+#pp{
+    margin-left:25%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height:500px;
+}
+button{
+    font-size: 25px;
+    height:50px;
+    width:140px;
+    background-color:green;
+    margin-left: 40px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
